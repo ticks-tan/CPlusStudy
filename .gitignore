@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# idea config dir
+.idea/
+
+# cmake build dir
+[cC]make-[bB]uild-[dD]ebug/
+output/
+
+# log file
+*.log
